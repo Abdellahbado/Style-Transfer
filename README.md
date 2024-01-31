@@ -1,2 +1,3 @@
 # Style-Transfer
-The content and style images !content-style.png(image.jpg)
+The content and style images ![Image Name](content-style.png)
+The resulting image ![Image Name](stylized.png)
